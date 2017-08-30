@@ -1,1 +1,1 @@
-# myrepo
+Bat dau lap trinh chuyen nghiep

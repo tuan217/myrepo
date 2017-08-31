@@ -1,1 +1,1 @@
-Bat dau lap trinh chuyen nghiep
+Entered from local to master branch
